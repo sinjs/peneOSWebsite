@@ -1,0 +1,9 @@
+{
+  "name": "peneOSWebsite",
+  "version": "1.0.0",
+  "description": "my cock is gigantic",
+  "main": "src/app.ts",
+  "repository": "https://github.com/sinjs/peneOSWebsite.git",
+  "author": "sin",
+  "license": "MIT"
+}
